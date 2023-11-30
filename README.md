@@ -1,9 +1,9 @@
 # Passos para Executar o apk
 
-1. Configuração do Ambiente:
+Configuração do Ambiente:
 Certifique-se de ter o Flutter e o ambiente de desenvolvimento configurados em seu sistema. Siga as instruções fornecidas na documentação oficial do Flutter.
 
-2. Execução do Aplicativo:
+Execução do Aplicativo:
 Use um emulador ou conecte um dispositivo físico. No terminal, navegue até o diretório do seu projeto e execute o seguinte comando para rodar o aplicativo:
 flutter run
 
